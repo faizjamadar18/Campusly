@@ -18,5 +18,5 @@ segno  # for qr code generation
 pillow # help in image preproccesing in pthon like resize, flip etc
 
 
-librosa
-resemblyzer
+librosa # A Python library for audio analysis and signal processing.
+resemblyzer # A library for speaker recognition / voice embeddings
