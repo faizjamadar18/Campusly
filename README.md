@@ -1,15 +1,10 @@
 <div align="center">
-  <img src="src/assets/logo.png" alt="AttendX Logo" width="180"/>
-  <h1 align="center">AttendX</h1>
-  <p align="center"><strong>For Smarter Classrooms</strong></p>
+  <!-- <img src="src/assets/logo.png" alt="AttendX Logo" width="180"/> -->
+  <h1 align="center">AttendX - For Smarter Classrooms</h1>
+  <p align="center"><strong></strong></p>
   <p align="center">AI-Powered Dual-Modal Attendance System — Face Recognition + Voice Recognition</p>
 
-  <p align="center">
-    <a href="#-features"><img src="https://img.shields.io/badge/Features-8_Modules-49CABB?style=for-the-badge&labelColor=000000" alt="Features"/></a>
-    <a href="#-tech-stack"><img src="https://img.shields.io/badge/Stack-Python_%7C_Streamlit_%7C_Supabase-49CABB?style=for-the-badge&labelColor=000000" alt="Stack"/></a>
-    <a href="https://attendx.streamlit.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-attendx.streamlit.app-49CABB?style=for-the-badge&labelColor=000000" alt="Live Demo"/></a>
-    <a href="#-quick-start"><img src="https://img.shields.io/badge/Deploy_Now-Zero_Cost-49CABB?style=for-the-badge&labelColor=000000" alt="Deploy"/></a>
-  </p>
+
 
   <br/>
 
