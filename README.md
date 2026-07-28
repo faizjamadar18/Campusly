@@ -22,6 +22,16 @@
 
 ---
 
+## 📺 Demo Video
+
+<div align="center">
+
+[![Watch the AttendX Demo](https://img.youtube.com/vi/cyxAy2Oy8fg/maxresdefault.jpg)](https://www.youtube.com/watch?v=cyxAy2Oy8fg)
+
+</div>
+
+---
+
 ## Overview
 
 **AttendX** is a modern, AI-driven classroom attendance system that eliminates manual roll calls. Teachers simply **upload a classroom photo** or **record classroom audio**, and AttendX's AI automatically identifies present students using **facial recognition** and **speaker recognition**. Students log in via their face — no passwords needed.
