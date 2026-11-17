@@ -13,7 +13,7 @@ def header_home():
     st.markdown(f"""
         <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; margin-bottom:30px;margin-top:-30px;">
             <img src='data:image/png;base64,{img}'  style="height:180px">
-            <h1 style='text-align:center; color:#FFFFFF ; margin-top:-25px; margin-right:-15px'>AttendX</h1>
+            <h1 style='text-align:center; color:#FFFFFF ; margin-top:-25px; margin-right:-15px'>Campusly</h1>
         </div>   
                 
                 """, unsafe_allow_html=True)
@@ -24,7 +24,7 @@ def header_dashboard():
     st.markdown(f"""
         <div style="display:flex; align-items:center; justify-content:center; gap:10px">
             <img src='data:image/png;base64,{img}'  style="height:120px">
-            <h2 style='display:flex; justify-content:center; color:#FFFFFF'>AttendX
+            <h2 style='display:flex; justify-content:center; color:#FFFFFF'>Campusly
         </div>   
                 
                 """, unsafe_allow_html=True)

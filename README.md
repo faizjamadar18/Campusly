@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- <img src="src/assets/logo.png" alt="AttendX Logo" width="180"/> -->
-  <h1 align="center">AttendX - For Smarter Classrooms</h1>
+  <!-- <img src="src/assets/logo.png" alt="Campusly Logo" width="180"/> -->
+  <h1 align="center">Campusly - For Smarter Classrooms</h1>
   <p align="center"><strong></strong></p>
   <p align="center">AI-Powered Dual-Modal Attendance System — Face Recognition + Voice Recognition</p>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Watch the AttendX Demo](https://img.youtube.com/vi/cyxAy2Oy8fg/maxresdefault.jpg)](https://www.youtube.com/watch?v=cyxAy2Oy8fg)
+[![Watch the Campusly Demo](https://img.youtube.com/vi/cyxAy2Oy8fg/maxresdefault.jpg)](https://www.youtube.com/watch?v=cyxAy2Oy8fg)
 
 </div>
 
@@ -34,9 +34,9 @@
 
 ## Overview
 
-**AttendX** is a modern, AI-driven classroom attendance system that eliminates manual roll calls. Teachers simply **upload a classroom photo** or **record classroom audio**, and AttendX's AI automatically identifies present students using **facial recognition** and **speaker recognition**. Students log in via their face — no passwords needed.
+**Campusly** is a modern, AI-driven classroom attendance system that eliminates manual roll calls. Teachers simply **upload a classroom photo** or **record classroom audio**, and Campusly's AI automatically identifies present students using **facial recognition** and **speaker recognition**. Students log in via their face — no passwords needed.
 
-Built entirely on free-tier infrastructure (Streamlit Community Cloud + Supabase), AttendX delivers a production-ready experience at **zero infrastructure cost**.
+Built entirely on free-tier infrastructure (Streamlit Community Cloud + Supabase), Campusly delivers a production-ready experience at **zero infrastructure cost**.
 
 ---
 
@@ -104,7 +104,7 @@ Classroom Audio → Voice Activity Detection → Segment Splitting → Resemblyz
 ## Project Structure
 
 ```
-attendx/
+campusly/
 ├── app.py                          # Entry point
 ├── requirements.txt                # Dependencies
 ├── schema.sql                      # Database schema (reference)
@@ -150,8 +150,8 @@ attendx/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/attendx.git
-cd attendx
+git clone https://github.com/yourusername/campusly.git
+cd campusly
 
 # Create virtual environment
 python -m venv venv
@@ -189,7 +189,7 @@ streamlit run app.py
 
 ## Deployment
 
-AttendX deploys effortlessly on **Streamlit Community Cloud**:
+Campusly deploys effortlessly on **Streamlit Community Cloud**:
 
 1. Push the repo to GitHub
 2. Log in to [Streamlit Community Cloud](https://streamlit.io/cloud)
@@ -224,5 +224,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 <div align="center">
   <sub>Built with 💚 for smarter classrooms</sub>
   <br/>
-  <sub>© 2026 AttendX — <a href="https://attendx.streamlit.app">attendx.streamlit.app</a></sub>
+  <sub>© 2026 Campusly — <a href="https://campusly.streamlit.app">campusly.streamlit.app</a></sub>
 </div>

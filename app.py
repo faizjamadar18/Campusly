@@ -7,7 +7,7 @@ from src.components.dialog_auto_enroll import auto_enroll_dialog
 def main():
 
     st.set_page_config(
-        page_title="AttendX - For Smarter Classrooms",
+        page_title="Campusly - For Smarter Classrooms",
         page_icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8hV3AgBAKlDPVbxzP7uoJ6zrx1iP65_Tw-Q&s"
     )
 

@@ -7,7 +7,7 @@ import io
 def share_subject_dialog(subject_name, subject_code):
     
     # Generating QR code
-    app_domain = "attendx.streamlit.app"
+    app_domain = "campusly.streamlit.app"
     join_url = f"{app_domain}/?join-code={subject_code}"
     qr = segno.make(join_url)
     out = io.BytesIO()
